@@ -2,7 +2,7 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/clamd_for_centos`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+This gem configure clamav on centos and amazon linux
 
 ## Installation
 
@@ -21,8 +21,7 @@ Or install it yourself as:
     $ gem install clamd_for_centos
 
 ## Usage
-
-TODO: Write usage instructions here
+after bundle install run ClamdForCentos.setup
 
 ## Development
 
