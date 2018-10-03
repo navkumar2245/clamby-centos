@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["navkumar2245@gmail.com"]
 
   spec.summary       = %q{Configure clamav on centos server}
-  spec.description   = %q{helper for Clamby gem on centos server}
+  spec.description   = %q{helper for Clamby gem on centos server run this in console ClamdForCentos.setup}
   spec.homepage      = "https://github.com/navkumar2245/clamby-centos"
   spec.license       = "MIT"
 

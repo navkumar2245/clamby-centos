@@ -1,7 +1,6 @@
 require "clamd_for_centos/version"
 
 module ClamdForCentos
-  # Your code goes here...
   def self.setup
     status =  system("sudo  yum install clamav clamav-scanner-sysvinit clamav-update -y")
     # if status == true
